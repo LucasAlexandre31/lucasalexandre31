@@ -1,4 +1,4 @@
-#👩🏻‍💻 Lucas Alexandre
+# 💻 Lucas Alexandre
 
 **`Desenvolvedor FullStack`**
 
